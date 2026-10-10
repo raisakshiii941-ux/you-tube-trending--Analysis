@@ -1,0 +1,19 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# YouTube Trending Videos Analysis — Python dependencies
+# Compatible with Google Colab (Python 3.10+)
+#
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Data manipulation & numerical computing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter Notebook environment (skip if running in Google Colab — it's pre-installed)
+notebook>=6.5.0
+ipykernel>=6.0.0
